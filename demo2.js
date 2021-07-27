@@ -21,5 +21,5 @@ function secondLargestNumber2(numbers){
 }
 
 let nums = [4, 6, 30, 1, 62]
-console.log(secondLargestNumber2(nums))
+//console.log(secondLargestNumber2(nums))
 document.write(secondLargestNumber2(nums))
